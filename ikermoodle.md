@@ -1,4 +1,6 @@
- 1. Primer actualitzarem els paquets
+
+# Instal·lació i configuració de Moodle amb Ubuntu server
+1. Primer actualitzarem els paquets
 ![Captura de pantalla de 2022-12-15 16-24-54](https://user-images.githubusercontent.com/114162657/207912404-c768cb79-2077-4797-acc0-2038efda5762.png)
  2. Després instal·larem apache2
 ![Captura de pantalla de 2022-12-15 16-25-33](https://user-images.githubusercontent.com/114162657/207912758-a9b967a2-c821-4366-86e3-f907f1067d8b.png)
