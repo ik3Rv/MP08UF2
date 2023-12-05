@@ -60,7 +60,7 @@
 ![Captura de pantalla de 2022-12-15 16-54-49](https://user-images.githubusercontent.com/114162657/207939247-f599182b-ffe9-42ff-af21-267a9df92c34.png)
  29. Ara posarem les dades del nostre moodle
 ![Captura de pantalla de 2022-12-15 16-59-22](https://user-images.githubusercontent.com/114162657/207939397-463b2768-2a7c-42b8-a3b3-6ac25a7460fc.png)
- 30. Un cop finalitzem els pasos anteriors ja tindrem moodle configurat
+ 30. Un cop finalitzem els pasos anteriors ja tindrem moodle correctament configurat.
 ![Captura de pantalla de 2022-12-15 17-00-10](https://user-images.githubusercontent.com/114162657/207939568-936df852-082a-4382-a24b-98030689f3f9.png)
 
 
